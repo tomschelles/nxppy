@@ -29,7 +29,7 @@ sudo apt-get install build-essential cmake python3-dev unzip wget
 go to the correct directory and simply run:
 
 ```
-sudo setup.py install
+sudo python setup.py install
 ```
 
 Installation will take some time source zip is included in install files.
